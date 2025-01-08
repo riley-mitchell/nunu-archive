@@ -1,0 +1,40 @@
+# API IMPLEMENTATION #
+
+*Resources*
+https://www.youtube.com/watch?v=yY0ciWj8oco
+https://www.youtube.com/watch?v=0rKgs9D9qSg
+https://www.youtube.com/watch?v=V2IfBdxjWs4
+
+*Takeaways/Challenges*
+- APIs are a great option for projects like this because they do a bulk of the work for you
+- It's mostly about formatting and beautifying the generated output
+- It appears as though one of the biggest challenges is going to be getting the API to generate news stories based on emotion
+- Might be necessary to pair the API with other technologies/strategies to gain this functionality
+- Many coding projects (and their code) ends up published online
+- Utilize debugging statements to try and pinpoint problems
+
+*Project Application*
+- Simplifying back down to the basics to try and gain functionality
+- In the future, refinement will be necessary to fit the emotions
+- Since the API worked in the past, it must be a minor error
+- Bug is most likely stemming from too many key words and phrases
+- Try and replicate the API code shown in tutorial videos
+- Possibly use snippets from working programs online
+
+# PROJECT ORGANIZATION #
+
+*Resources*
+https://www.youtube.com/watch?v=_l_wtpxgB7k
+https://www.youtube.com/watch?v=qS4mvrWWO_M
+
+*Takeaways/Challenges*
+- Keep projects updated to track changes and avoid losing information
+- Use consistent naming conventions to stay organized
+- Try and reuse certain code segements if possible to reduce redundancy
+- Organize files to keep the project easy to manuever 
+
+*Project Application*
+- Commit changes on GitHub (with proper statements) to stay up-to-date
+- Continue using the same way of naming files on Xcode to avoid getting confused
+- Use roughly the same code for the different buttons (Option1View, Option2View, etc.)
+- Actually make a file organization pattern
